@@ -45,6 +45,7 @@ export default function QuoteGenerator() {
     }
   };
 
+  //I put the fetch here, but this could be moved out into an API class with expansion of the app
   useEffect(() => {
     setIsLoading(true);
     fetch("https://type.fit/api/quotes")
@@ -59,16 +60,16 @@ export default function QuoteGenerator() {
           "There has been a problem with your fetch operation: " + error.message
         );
         return error;
-      })
-      .finally(() => {
-        setIsLoading(false);
       });
   }, []);
 
+  //this ensures that once the quoteData from API has updated, the initial quote will update.
   useEffect(() => {
     generateNewQuote();
   }, [quoteData]);
 
+  //This is just to provide a UI representation of loading if the API call fails.
+  //Another option was to read from an internal JSON file which had a list of quotes in the event of a failure.
   if (isLoading) {
     return (
       <div>

@@ -10,6 +10,7 @@ import {
 import { useEffect, useState } from "react";
 import setDynamicBackground from "../dynamicBackground";
 
+//this could be called with the useTheme hook so that if the application got larger with all components sharing a style they could call the one style.
 const StyledPaper = styled(Paper)(({ theme }) => ({
   backgroundColor: theme.palette.mode === "dark" ? "#1A2027" : "#fff",
   ...theme.typography.body2,
@@ -26,6 +27,12 @@ export default function QuoteGenerator() {
   const [isLoading, setIsLoading] = useState(true);
 
   //With each new quote that is generated, a background colour must be generated.
+  //this function could useCallback because it doesnt depend on any states so
+  // const generateNewQuote = useCallback(() => {
+  //   const randomQuote = quoteData[Math.floor(Math.random() * quoteData.length)];
+  //   setQuote(randomQuote);
+  //   handleBackgroundHexCode();
+  // }, [quoteData]);
   const generateNewQuote = () => {
     selectRandomQuote();
     handleBackgroundHexCode();
@@ -42,10 +49,15 @@ export default function QuoteGenerator() {
       const item = quoteData[Math.floor(Math.random() * quoteData.length)];
       setQuoteText(item.text);
       setQuoteAuthor(item.author);
+      //better way about it is to remove the item and just to destructure the quote data straight away
+      // const { dataText, dataAuthor } = quoteData[Math.floor(Math.random() * quoteData.length)];
+      // setQuoteText(dataText);
+      // setQuoteAuthor(dataAuthor);
     }
   };
 
-  //I put the fetch here, but this could be moved out into an API class with expansion of the app
+  //I put the fetch here, but this could be moved out into an API class with expansion of the app.
+  // see api.js for how this block should look
   useEffect(() => {
     setIsLoading(true);
     fetch("https://type.fit/api/quotes")
@@ -58,6 +70,7 @@ export default function QuoteGenerator() {
       .catch(function (error) {
         console.log(
           "There has been a problem with your fetch operation: " + error.message
+          // This should be where the stubbed info goes
         );
         return error;
       });

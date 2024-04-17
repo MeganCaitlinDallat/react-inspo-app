@@ -1,70 +1,64 @@
-WEBVTT
-
+1
+00:00:00.000 --> 00:00:03.000
 NOTE
-language:en-US
+Car is driving at night down a motorway.
 
-NOTE Confidence: 0.6904518008232117
+2
+00:00:03.000 --> 00:00:15.000
+NOTE
+Dog is in the car, perched with its head out the window of the car.
 
-00:00:01.280 --> 00:00:03.040
-Speaker #1: And I learned to get along.
+3
+00:00:15.000 --> 00:00:26.000
+NOTE
+A man is driving the car.
 
-NOTE Confidence: 0.7816303372383118
+4
+00:00:26.000 --> 00:00:34.000
+NOTE
+The dog climbs down from the window.
 
-00:00:03.040 --> 00:00:06.040
-Speaker #1: And so you're back from outer space.
+5
+00:00:01.300 --> 00:00:04.600
+CUE
+Speaker #1: And I learned how to get along and so you're back
 
-NOTE Confidence: 0.8365009427070618
+6
+00:00:04.600 --> 00:00:08.300
+CUE
+Speaker #1:  from outer space. I just walked in to find you
 
-00:00:06.800 --> 00:00:09.101
-Speaker #1: I just walked in to find you here with that
+7
+00:00:08.300 --> 00:00:10.700
+CUE
+Speaker #1: here with that sad look upon your face. I should
 
-NOTE Confidence: 0.8365009427070618
+8
+00:00:10.700 --> 00:00:13.400
+CUE
+Speaker #1: have changed that stupid lock. I should have made you
 
-00:00:09.155 --> 00:00:10.439
-Speaker #1: sad look upon your face.
+9
+00:00:13.400 --> 00:00:16.300
+CUE
+Speaker #1: leave your key. If I'd known for just 1 second
 
-NOTE Confidence: 0.8850023150444031
+10
+00:00:16.600 --> 00:00:18.600
+CUE
+Speaker #1: you'd be back to bother me. Go on now 
 
-00:00:10.440 --> 00:00:12.200
-Speaker #1: I should have changed that stupid lock.
+11
+00:00:18.600 --> 00:00:20.700
+CUE
+Speaker #1: walk out the door.
 
-NOTE Confidence: 0.8526554703712463
+12
+00:00:20.700 --> 00:00:24.400
+CUE
+Speaker #2: Frank! bring your head in this window
 
-00:00:12.320 --> 00:00:14.160
-Speaker #1: I should have made you leave your key.
-
-NOTE Confidence: 0.7056889533996582
-
-00:00:14.440 --> 00:00:17.182
-Speaker #1: If I'd known for just one second, you'd be back
-
-NOTE Confidence: 0.7056889533996582
-
-00:00:17.241 --> 00:00:17.999
-Speaker #1: to bottom me.
-
-NOTE Confidence: 0.874762237071991
-
-00:00:18.000 --> 00:00:18.680
-Speaker #1: Go on now.
-
-NOTE Confidence: 0.8597180843353271
-
-00:00:18.680 --> 00:00:21.200
-Speaker #1: Go walk out the door, Frank.
-
-NOTE Confidence: 0.9019471406936646
-
-00:00:22.840 --> 00:00:25.252
-Speaker #2: Bring your head in this window before I roll it
-
-NOTE Confidence: 0.9019471406936646
-
-00:00:25.303 --> 00:00:25.919
-Speaker #2: up in there.
-
-NOTE Confidence: 0.906586766242981
-
-00:00:26.480 --> 00:00:26.840
-Speaker #1: Got it.
-
+13
+00:00:24.400 --> 00:00:26.700
+CUE
+Speaker #2: before I roll it up in there. Got it?

@@ -1,0 +1,444 @@
+﻿WEBVTT
+
+00:00:00.000 --> 00:00:01.000
+NOTE
+Black frame
+
+00:00:01.000 --> 00:00:03.000
+NOTE
+Text appears
+
+00:00:03.000 --> 00:00:07.000
+NOTE
+Firefighter clothing
+
+00:00:07.000 --> 00:00:08.000
+NOTE
+Clothing related to vehicles
+
+00:00:08.000 --> 00:00:09.000
+NOTE
+Focus on a wheel
+
+00:00:09.000 --> 00:00:13.000
+NOTE
+Transportation theme
+
+00:00:13.000 --> 00:00:17.000
+NOTE
+Transition to a sky scene
+
+00:00:17.000 --> 00:00:18.000
+NOTE
+Close-up of a human face
+
+00:00:18.000 --> 00:00:21.000
+NOTE
+Person smiling
+
+00:00:21.000 --> 00:00:37.000
+NOTE
+Multiple smiles
+
+00:00:37.000 --> 00:00:39.000
+NOTE
+Human face smiling
+
+00:00:39.000 --> 00:00:41.000
+NOTE
+Smile
+
+00:00:41.000 --> 00:00:44.000
+NOTE
+Smile
+
+00:00:44.000 --> 00:00:47.000
+NOTE
+Mobile phone
+
+00:00:47.000 --> 00:00:50.000
+NOTE
+Mobile phone
+
+00:00:50.000 --> 00:00:52.000
+NOTE
+Mobile phone
+
+00:00:52.000 --> 00:00:54.000
+NOTE
+Human face
+
+00:00:54.000 --> 00:00:55.000
+NOTE
+Woman smiling
+
+00:00:55.000 --> 00:01:02.000
+NOTE
+Smile
+
+00:01:02.000 --> 00:01:05.000
+NOTE
+Human face
+
+00:01:05.000 --> 00:01:06.000
+NOTE
+Clothing
+
+00:01:06.000 --> 00:01:07.000
+NOTE
+Person
+
+00:01:07.000 --> 00:01:14.000
+NOTE
+Firefighter, vehicle, transportation, fire department
+
+00:01:14.000 --> 00:01:15.000
+NOTE
+Wheel
+
+00:01:15.000 --> 00:01:16.000
+NOTE
+Transport
+
+00:01:16.000 --> 00:01:17.000
+NOTE
+Human face, person
+
+00:01:17.000 --> 00:01:19.000
+NOTE
+Person smiling
+
+00:01:19.000 --> 00:01:22.000
+NOTE
+Smile
+
+00:01:22.000 --> 00:01:24.000
+NOTE
+Man smiling
+
+00:01:24.000 --> 00:01:37.000
+NOTE
+Firefighter
+
+00:01:37.000 --> 00:01:42.000
+NOTE
+Tree
+
+00:01:42.000 --> 00:01:44.000
+NOTE
+Human face
+
+00:00:01.680 --> 00:00:03.960
+CUE
+Speaker #1: We started speaking to Thrive before the pandemic.
+
+00:00:04.360 --> 00:00:06.731
+CUE
+Speaker #1: We were looking for ways to be able to engage
+
+00:00:06.783 --> 00:00:09.839
+CUE
+Speaker #1: with 8000 people of which the vast majority are frontline.
+
+00:00:10.600 --> 00:00:12.828
+CUE
+Speaker #1: We were having issues with not being able to have
+
+00:00:12.873 --> 00:00:13.919
+CUE
+Speaker #1: two way communications.
+
+00:00:13.920 --> 00:00:17.171
+CUE
+Speaker #1: Not having that kind of feedback loop coming across Thrive
+
+00:00:17.227 --> 00:00:20.366
+CUE
+Speaker #1: and seeing the technology that they were able to provide
+
+
+00:00:20.422 --> 00:00:22.439
+CUE
+Speaker #1: really ticked a lot of boxes for us.
+
+00:00:22.800 --> 00:00:25.560
+CUE
+Speaker #1: We're a leading UK sustainable waste management company.
+
+00:00:25.600 --> 00:00:29.040
+CUE
+Speaker #1: We cover around 95% of UK post codes.
+
+00:00:29.160 --> 00:00:32.030
+CUE
+Speaker #1: We focus on both collecting the waste and then recycling
+
+00:00:32.082 --> 00:00:32.800
+CUE
+Speaker #1: it afterwards.
+
+00:00:33.280 --> 00:00:37.046
+CUE
+Speaker #1: 85% of milk bottles within the UK contain some sort
+
+00:00:37.120 --> 00:00:40.369
+CUE
+Speaker #1: of bit of plastic, so it's not just bins and
+
+00:00:40.443 --> 00:00:40.960
+CUE
+Speaker #1: trucks.
+
+00:00:41.200 --> 00:00:43.066
+CUE
+Speaker #1: We do a lot of other things behind the scenes
+
+00:00:43.108 --> 00:00:43.440
+CUE
+Speaker #1: as well.
+
+00:00:43.920 --> 00:00:46.817
+CUE
+Speaker #1: The content management system was really easy to use and
+
+00:00:46.869 --> 00:00:49.612
+CUE
+Speaker #1: that was definitely a key part of our decision making
+
+
+00:00:49.664 --> 00:00:51.319
+CUE
+Speaker #1: when we chose to onboard Thrive.
+
+00:00:51.720 --> 00:00:54.991
+CUE
+Speaker #1: The fact that the technology enabled 2 way communications, it
+
+00:00:55.045 --> 00:00:57.834
+CUE
+Speaker #1: hosted video and host podcasts, all of those kind of
+
+00:00:57.888 --> 00:01:00.623
+CUE
+Speaker #1: things were were really important to us and are all
+
+00:01:00.677 --> 00:01:03.520
+CUE
+Speaker #1: features that we've used since we've had the the app.
+
+00:01:04.040 --> 00:01:06.524
+CUE
+Speaker #1: It all started with leaders and managers just after the
+
+00:01:06.569 --> 00:01:09.234
+CUE
+Speaker #1: launch and we had our Senior leadership Conference and then
+
+00:01:09.279 --> 00:01:10.679
+CUE
+Speaker #1: we had our managers Conference.
+
+00:01:10.680 --> 00:01:13.480
+CUE
+Speaker #1: So that probably counted for around 600 people.
+
+00:01:13.480 --> 00:01:16.226
+CUE
+Speaker #1: So starting off with getting those 600 on Biffa beat
+
+00:01:16.279 --> 00:01:18.497
+CUE
+Speaker #1: and using it and if each of them were able
+
+CUE
+00:01:18.550 --> 00:01:20.768
+Speaker #1: to then get their team on it and using it,
+
+00:01:20.821 --> 00:01:23.040
+CUE
+Speaker #1: then that was working kind of really well.
+
+00:01:23.880 --> 00:01:26.586
+CUE
+Speaker #1: After the first year, we had 50% of our workforce
+
+00:01:26.641 --> 00:01:28.851
+CUE
+Speaker #1: on Biffa beat and at the end of the year
+
+00:01:28.906 --> 00:01:29.680
+CUE
+Speaker #1: 2, it was 70%.
+
+00:01:29.680 --> 00:01:32.460
+CUE
+Speaker #1: So we're really pleased with those rates and how quickly
+
+00:01:32.510 --> 00:01:34.000
+CUE
+Speaker #1: the uptake was able to happen.
+
+00:01:34.720 --> 00:01:37.800
+CUE
+Speaker #1: During the pandemic, the content was quite serious.
+
+00:01:38.040 --> 00:01:40.738
+CUE
+Speaker #1: We were putting out a lot of CEO communications and
+
+00:01:40.791 --> 00:01:44.018
+CUE
+Speaker #1: leadership communications, FAQs as well as kind of having two
+
+00:01:44.071 --> 00:01:46.400
+CUE
+Speaker #1: way conversations through the comment boxes.
+
+00:01:46.400 --> 00:01:48.658
+CUE
+Speaker #1: So it was really easy if you were a driver
+
+00:01:48.712 --> 00:01:51.294
+CUE
+Speaker #1: in Manchester or a loader in Kent or a recycling
+
+00:01:51.348 --> 00:01:54.306
+CUE
+Speaker #1: operative in Newcastle, You know no matter who you were
+
+00:01:54.360 --> 00:01:56.941
+CUE
+Speaker #1: or where you worked, you were able to get direct
+
+00:01:56.995 --> 00:02:00.061
+CUE
+Speaker #1: access to our leadership team simply by asking a question
+
+00:02:00.114 --> 00:02:02.320
+CUE
+Speaker #1: through the pandemic which was essential.
+
+00:02:02.960 --> 00:02:05.174
+CUE
+Speaker #1: And since the pandemic we've started to have a lot
+
+00:02:05.218 --> 00:02:06.680
+CUE
+Speaker #1: more fun with our communications.
+
+00:02:07.520 --> 00:02:09.842
+CUE
+Speaker #1: Measurement is a really key part of of our kind
+
+00:02:09.891 --> 00:02:10.880
+CUE
+Speaker #1: of content strategy.
+
+00:02:11.160 --> 00:02:14.419
+CUE
+Speaker #1: The top performing stories include, you know, things like fun
+
+00:02:14.473 --> 00:02:17.839
+CUE
+Speaker #1: competitions or key business updates which might affect people.
+
+00:02:18.400 --> 00:02:21.880
+CUE
+Speaker #1: They tended to include videos, infographics and really visual things.
+
+00:02:22.360 --> 00:02:25.120
+CUE
+Speaker #1: For us, health and safety is obviously really important.
+
+00:02:25.360 --> 00:02:28.158
+CUE
+Speaker #1: At the moment we're running a Learning from incident series
+
+00:02:28.205 --> 00:02:30.672
+CUE
+Speaker #1: where people that have been involved in either in an
+
+00:02:30.719 --> 00:02:32.996
+CUE
+Speaker #1: incident or in what we call a near miss, talking
+
+00:02:33.043 --> 00:02:35.320
+CUE
+Speaker #1: us through their story of kind of what happened.
+
+00:02:35.320 --> 00:02:37.000
+CUE
+Speaker #1: Just so many people can relate to that.
+
+00:02:37.000 --> 00:02:38.800
+CUE
+Speaker #1: So people are commenting for us.
+
+00:02:38.800 --> 00:02:42.175
+CUE
+Speaker #1: If that saves one person's life, then obviously it's absolutely
+
+00:02:42.228 --> 00:02:44.640
+CUE
+Speaker #1: worth worth doing as well as having some fun.
+
+00:02:44.639 --> 00:02:47.960
+CUE
+Speaker #1: There is some key more strategic business and operational content
+
+00:02:48.011 --> 00:02:48.880
+CUE
+Speaker #1: in there as well.
+
+00:02:49.520 --> 00:02:51.440
+CUE
+Speaker #1: I would say it's definitely worth the investment.
+
+00:02:51.440 --> 00:02:53.531
+CUE
+Speaker #1: You know, do it now and do it while you
+
+00:02:53.585 --> 00:02:53.800
+CUE
+Speaker #1: can.
+
+00:02:53.840 --> 00:02:55.000
+CUE
+Speaker #1: You know, bed something in.
+
+00:02:55.280 --> 00:02:58.004
+CUE
+Speaker #1: Don't wait for another crisis to be upon us before
+
+00:02:58.058 --> 00:03:01.164
+CUE
+Speaker #1: you start to improve the channels that you have available
+
+00:03:01.218 --> 00:03:01.599
+CUE
+Speaker #1: to you.
+
+00:03:02.000 --> 00:03:05.009
+CUE
+Speaker #1: It's a great tool it it kind of facilitates 2
+
+00:03:05.076 --> 00:03:06.079
+CUE
+Speaker #1: way engagement.
+
+00:03:06.480 --> 00:03:07.480
+CUE
+Speaker #1: It enables video.
+
+00:03:07.480 --> 00:03:09.880
+CUE
+Speaker #1: It will enable your leadership communications.
+
+00:03:09.919 --> 00:03:12.272
+CUE
+Speaker #1: And yet my advice would be would be absolutely to
+
+00:03:12.320 --> 00:03:12.800
+CUE
+Speaker #1: go for it.
+
